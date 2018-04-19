@@ -12,6 +12,7 @@
 		DCCEE0AB2088086400AFCAB8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCCEE0A92088086400AFCAB8 /* Main.storyboard */; };
 		DCCEE0AD2088086400AFCAB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DCCEE0AC2088086400AFCAB8 /* Assets.xcassets */; };
 		DCCEE0B02088086400AFCAB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCCEE0AE2088086400AFCAB8 /* LaunchScreen.storyboard */; };
+		DCCEE0B82088129800AFCAB8 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCCEE0B72088129800AFCAB8 /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		DCCEE0AC2088086400AFCAB8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DCCEE0AF2088086400AFCAB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DCCEE0B12088086400AFCAB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCCEE0B72088129800AFCAB8 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				DCCEE0A52088086400AFCAB8 /* AppDelegate.swift */,
 				DCCEE0A72088086400AFCAB8 /* ViewController.swift */,
 				DCCEE0A92088086400AFCAB8 /* Main.storyboard */,
+				DCCEE0B72088129800AFCAB8 /* TableViewCell.swift */,
 				DCCEE0AC2088086400AFCAB8 /* Assets.xcassets */,
 				DCCEE0AE2088086400AFCAB8 /* LaunchScreen.storyboard */,
 				DCCEE0B12088086400AFCAB8 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCCEE0B82088129800AFCAB8 /* TableViewCell.swift in Sources */,
 				DCCEE0A82088086400AFCAB8 /* ViewController.swift in Sources */,
 				DCCEE0A62088086400AFCAB8 /* AppDelegate.swift in Sources */,
 			);
